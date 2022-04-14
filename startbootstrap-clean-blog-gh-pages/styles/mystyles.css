@@ -1,0 +1,25 @@
+/* Merrit Hicks on 4/14/2022 @ 3:39pm*/
+
+/*dont touch this*/
+.hp{font-size: 17px;}
+
+/*Tablue*/
+/*.tabcommon{border:solid 5px;}*/
+.tabbg{color: whitesmoke;font-size: 20px; position: relative;}
+.tabhead{float: right;}
+.tabtitle{top: 5px; position: absolute; text-align: center;}
+.tabmain{left: 150px;right: 150px; bottom: 25px;top:  15px;text-align: center;}
+.tabfoot{bottom: 15px;left: 20px;right: 75px;position: relative;text-align: center;}
+.tabbold{font-weight:900;}
+.tabit{font-style: italic;}
+.colorwhite{color: whitesmoke;}
+
+/*home page, and About Me page*/
+.hpheader{position: absolute; }
+.italic{font-style: italic;}
+.bold{font-weight: 500;}
+.hpcolor{color: rgb(60, 41, 40);}
+.under{text-decoration: underline;}
+.fontsize{font-size: 25px;}
+/*over ride for links on all NON Tabuale Pages*/
+a:hover{text-decoration: underline;}
